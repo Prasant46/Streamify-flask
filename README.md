@@ -11,7 +11,7 @@ A modern full-stack real-time chat and video calling application built with Flas
 
 ## 🌐 Live Demo
 
-**URL:** [https://stramify-flask.vercel.app](https://rupyatrack.vercel.app)  
+**URL:** [https://streamify-fullstack.onrender.com](https://streamify-fullstack.onrender.com)  
 
 ---
 
