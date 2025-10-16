@@ -1,0 +1,23 @@
+# Core Framework
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+Flask-CORS==4.0.0
+Flask-JWT-Extended==4.6.0
+
+# Database - Updated for Python 3.13 compatibility
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.36
+
+# Security
+bcrypt==4.1.2
+python-dotenv==1.0.0
+
+# Stream API
+stream-chat==4.16.0
+
+# Utilities
+requests==2.31.0
+
+# Production Server
+gunicorn==21.2.0
